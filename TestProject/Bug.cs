@@ -1,5 +1,4 @@
-﻿
-namespace ProjetTest
+﻿namespace ProjetTest
 {
 	public class Bug
 	{
